@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SwiftUI,Swift**
 
-- - 💬 Ask me anything about **SwiftUI**
+- 💬 Ask me anything about **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bariscansertkaya](https://github.com/bariscansertkaya)
 
