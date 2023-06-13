@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Baris</h1>
 <h3 align="center">A Junior iOS developer</h3>
 
-<p align="left"> <a href="https://twitter.com/bariscansertdev" target="blank"><img src="https://img.shields.io/twitter/follow/bariscansertdev?logo=twitter&style=for-the-badge" alt="bariscansertdev" /></a> </p>
+
 
 - 🌱 I’m currently learning **SwiftUI,Swift**
 
