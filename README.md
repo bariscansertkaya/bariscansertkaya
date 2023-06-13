@@ -9,9 +9,6 @@
 
 - 💬 Ask me anything about **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bariscansertkaya](https://github.com/bariscansertkaya)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
