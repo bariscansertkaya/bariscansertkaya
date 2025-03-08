@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Baris</h1>
-<h3 align="center">A Junior iOS developer</h3>
+<h3 align="center">An iOS developer</h3>
 
 
 
